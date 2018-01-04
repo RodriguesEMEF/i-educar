@@ -1,2 +1,0 @@
-# i-educar
-i-educar
